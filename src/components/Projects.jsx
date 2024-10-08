@@ -19,8 +19,8 @@ function Projects() {
                     <img className='mb-6 rounded' alt = '' width={150} height={150} src={project.image}></img>
                 </motion.div>
                 <motion.div className='w-full max-w-xl lg:w-3/4 mb-8'
-                whileInView={{ opacity: 1, x: -100 }}
-                initial={{ opacity: 0, x: 0 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                initial={{ opacity: 0, x: 100 }}
                 transition={{ duration: 1 }}>
                     <h6 className='mb-2 font-semibold'>{project.title}</h6>
                     <p className='mb-4 text-neutral-400'>{project.description}</p>
