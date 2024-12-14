@@ -9,18 +9,18 @@ export const ABOUT_TEXT = `I am a dedicated and adaptable React developer with a
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2021 - Present",
     role: "Software Engineer",
     company: "Versa Networks",
-    description: `Implemented efficient state management using React hooks, Redux, and context API, optimizing component structures for scalability and maintainability.`,
+    description: `Implemented efficient state management using React hooks, Redux, and context API, optimizing component structures for scalability and maintainability. Developed and maintained web applications using JavaScript, React.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
     technologies: ["Javascript", "React.js", "SCSS"],
   },
   {
     year: "2021 - 6 Months",
     role: "Software Engineer Intern",
     company: "Versa Networks",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Selenium"],
+    description: `Debugged and fixed various bugs. Delivered features aligned with business requirements and user needs.`,
+    technologies: ["Javascript", "React.js", "SCSS"],
   },
 ];
 
